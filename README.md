@@ -1,9 +1,10 @@
 ## _👋 Hi, I’m @Matheush2ds_
 
-- 📍 Caldas Novas-GO, Brazil.
-- 🌱 I’m currently learning Java, C++ and mySQL
-- 📚 Ccomputer science student
-- 💻 Self-taught
+- 📍 _Caldas Novas-GO, Brazil._
+- 🌱 _I’m currently learning Java, C++ and mySQL_
+- 📚 _Computer science student_
+- 💻 _Self-taught_
+- ✒️ _Other Hobbies: Graphic Editor_
 
 ##
 
@@ -12,8 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheush2ds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheush2ds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  
+  ## Skills
   <div style="display: inline_block"><br>
-    
   <img align="center" alt="Matheus-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Matheus-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Matheus-Github" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />

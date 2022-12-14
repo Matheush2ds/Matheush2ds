@@ -1,7 +1,7 @@
 ## _👋 Hi, I’m @Matheush2ds_
 
 - 📍 Caldas Novas-GO, Brazil.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, C++ and mySQL
 - 📚 Ccomputer science student
 - 💻 Self-taught
 

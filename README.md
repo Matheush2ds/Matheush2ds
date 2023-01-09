@@ -1,7 +1,7 @@
 ## _👋 Hi, I’m @Matheush2ds_
 
 - 📍 _Caldas Novas-GO, Brazil._
-- 🌱 _I’m currently learning Java, C++ and mySQL_
+- 🌱 _I’m currently learning Java, Kotlin and mySQL_
 - 📚 _Computer science student_
 - 💻 _Self-taught_
 - ✒️ _Other Hobbies: Graphic Editor_
@@ -21,7 +21,6 @@
   <img align="center" alt="Matheus-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Matheus-Github" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Matheus-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Matheus-Cplus" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
   <img align="center" alt="Matheus-PS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Matheus-Sql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           

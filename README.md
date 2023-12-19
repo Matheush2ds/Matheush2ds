@@ -1,7 +1,7 @@
 ## _👋 Hi, I’m @Matheush2ds_
 
 - 📍 _Caldas Novas-GO, Brazil._
-- 🌱 _I’m currently learning Java, Spring and Kotlin
+- 🌱 _I’m currently learning Java, Spring and Power BI_
 - 📚 _Computer science student_
 - 💻 _Self-taught_
 - ✒️ _Other Hobbies: Graphic Editor_

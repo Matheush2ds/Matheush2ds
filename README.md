@@ -1,10 +1,9 @@
-## _👋 Hi, I’m @Matheush2ds_
+## _👋 Olá, Me chamo Matheus Henrique!
 
-- 📍 _Caldas Novas-GO, Brazil._
-- 🌱 _I’m currently learning Java, Spring and Power BI_
-- 📚 _Computer science student_
-- 💻 _Self-taught_
-- ✒️ _Other Hobbies: Graphic Editor_
+- 📍 _Caldas Novas-GO, Brasil._
+- 🌱 _Atualmente estou aprendendo Spring e JavaScript_
+- 📚 _Estudante de Ciência da Computação_
+- ✒️ _Outros Hobbies: Designer Gráfico_
 
 ##
 

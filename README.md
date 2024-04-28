@@ -1,9 +1,9 @@
-## _👋 Olá, Me chamo Matheus Henrique!
+## 👋 Olá, Me chamo Matheus Henrique!
 
 - 📍 _Caldas Novas-GO, Brasil._
 - 🌱 _Atualmente estou aprendendo Spring e JavaScript_
 - 📚 _Estudante de Ciência da Computação_
-- ✒️ _Outros Hobbies: Designer Gráfico_
+- ✒️ Outros Hobbies: _Designer Gráfico_
 
 ##
 

@@ -1,33 +1,45 @@
-## 👋 Olá, Me chamo Matheus Henrique!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=012030&height=120&section=header"/>
 
-- 📍 _Caldas Novas-GO, Brasil._
-- 🌱 _Atualmente estou aprendendo Spring e JavaScript_
-- 📚 _Estudante de Ciência da Computação_
-- ✒️ Outros Hobbies: _Designer Gráfico_
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAFDBA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Matheus+Henrique+dos+Santos;Sou+de+Caldas+Novas,+GO;Sou+estudante+de+Ciências+da+Computação)](https://git.io/typing-svg)
 
-##
-
-<div align="center">
-  <a href="https://github.com/Matheush2ds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheush2ds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheush2ds&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusH2ds&show_icons=true&count_private=true&hide_border=true&title_color=DAFDBA&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusH2ds&layout=compact&hide_border=true&title_color=DAFDBA&text_color=00bfbf&bg_color=0d1117" />
 </div>
   
   
-  ## Skills
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Matheus-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="Matheus-Github" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Matheus-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Matheus-PS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Matheus-Sql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
+### Principais Habilidades
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java Spring Boot](https://img.shields.io/badge/SpringBoot-0D1117?style=flat-square&logo=Spring&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+### Fearramentas
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-0D1117?logo=intellij-idea&style=for-the-badge)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Vscode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Outros Conhecimentos:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+### Estudando no momento:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
           
                 
-## Conecte-se Comigo
+### Conecte-se Comigo
  
 <div> 
-    <a href = "mailto:matheushenriqueds1223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheus-henriquedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/matheus.hds2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:matheushenriqueds1223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%0D1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matheus-henriquedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/matheus.hds2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%0D1117?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=012030&height=120&section=footer"/>
+
+

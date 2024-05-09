@@ -1,6 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=012030&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAFDBA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Matheus+Henrique+dos+Santos;Sou+de+Caldas+Novas,+GO;Sou+estudante+de+Ciências+da+Computação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAFDBA&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindos+ao+meu+perfil)](https://git.io/typing-svg)
+
+#
+
+<p align="center">Me chamo Matheus e sou estudante de Ciências da Computação pelo IF Goiano Campus Morrinhos.
+Me interesso pelo back-end porém também sei ferramentas do front-end, e minhas principais linguagens são Java e JavaScript.
+  
+#
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusH2ds&show_icons=true&count_private=true&hide_border=true&title_color=DAFDBA&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
@@ -13,7 +20,7 @@
 ![Java Spring Boot](https://img.shields.io/badge/SpringBoot-0D1117?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-### Fearramentas
+### Ferramentas
 ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-0D1117?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Vscode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;

@@ -43,10 +43,9 @@ Me interesso pelo Desenvolvimento Full Stack e tenho como principais linguagens 
 ### Conecte-se Comigo
  
 <div> 
-    <a href = "mailto:matheushenriqueds1223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%0D1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheus-henriquedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/matheus.hds2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%0D1117?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:matheushenriqueds1223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/matheus-henriquedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/matheus.hds2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=012030&height=120&section=footer"/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=012030&height=120&section=footer"/>
+</div>

@@ -5,7 +5,7 @@
 #
 
 <p align="center">Me chamo Matheus e sou estudante de Ciências da Computação pelo IF Goiano Campus Morrinhos.
-Me interesso pelo back-end porém também sei ferramentas do front-end, e minhas principais linguagens são Java e JavaScript.
+Me interesso pelo Desenvolvimento Full Stack e tenho como principais linguagens de conhecimento Java e JavaScript.
   
 #
 
